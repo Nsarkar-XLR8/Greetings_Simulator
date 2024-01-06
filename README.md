@@ -1,4 +1,5 @@
-Greeting Text Simulator
+<<--- Greeting Text Simulator --->>
+
 This Python script generates personalized greetings based on the time of day, providing users with a simulated interaction similar to a greeting message.
 
 Program Features:
